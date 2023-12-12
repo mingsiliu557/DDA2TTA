@@ -1,0 +1,14 @@
+Epoch 1: UNet Loss: 0.0547, Diffusion Loss: 19077292830023987200.0000
+Epoch 1: UNet Loss: 0.0551, Diffusion Loss: 18645617435403583488.0000
+Epoch 1: UNet Loss: 0.0609, Diffusion Loss: 18803871983923478528.0000
+Epoch 1: UNet Loss: 0.0607, Diffusion Loss: 19013445683312431104.0000
+Epoch 2: UNet Loss: 0.0356, Diffusion Loss: 44794422398447.4844
+Epoch 2: UNet Loss: 0.0287, Diffusion Loss: 45628260635628.1797
+Epoch 2: UNet Loss: 0.0293, Diffusion Loss: 45219068397799.2266
+Epoch 2: UNet Loss: 0.0307, Diffusion Loss: 46033776437261.2109
+Epoch 3: UNet Loss: 0.0100, Diffusion Loss: 40545378531265708032.0000
+Epoch 3: UNet Loss: 0.0082, Diffusion Loss: 40878525864868593664.0000
+Epoch 3: UNet Loss: 0.0167, Diffusion Loss: 40868189560327094272.0000
+Epoch 3: UNet Loss: 0.0175, Diffusion Loss: 40917033976377516032.0000
+Epoch 1: UNet Loss: 0.0378, Diffusion Loss: 55002796855818168.0000
+Epoch 2: UNet Loss: 0.0236, Diffusion Loss: 3297912003402.3228
