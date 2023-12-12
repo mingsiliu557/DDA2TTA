@@ -1,0 +1,10 @@
+torch==1.7.0+cu110
+torchvision==0.8.0+cu110
+numpy==1.24.3
+Pillow==10.0.1
+tqdm
+einops==0.7.0
+segmentation-models-pytorch==0.3.3
+labml==0.4.168
+labml-helpers==0.4.89
+labml-nn==0.4.136
